@@ -1,0 +1,133 @@
+html {
+    line-height: 1.15;
+}
+body {
+    margin: 0;
+}
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+pre {
+    font-family: monospace, monospace;
+    font-size: 1em;
+}
+abbr[title] {
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration: underline dotted;
+}
+b,
+strong {
+    font-weight: bolder;
+}
+code,
+kbd,
+samp {
+    font-family: monospace, monospace;
+    font-size: 1em;
+}
+small {
+    font-size: 80%;
+}
+sub, 
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sub {
+    bottom: -0.25em;
+}
+sup {
+    top: -0.5em;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+}
+legend {
+    padding: 0;
+}
+progress {
+    vertical-align: baseline;
+}
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]:::-webkit-outer-spin-button {
+    height: auto;
+}
+[type="search"] {
+    -webkit-appearance: textfield;
+}
+[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+summary {
+    display: list-item;
+}
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 0px;
+    margin-right: 100px;
+}
+title {
+    width: 300px;
+    margin: auto;
+    border: 1px solid green;
+}
+header {
+    width: 300px;
+    margin: auto;
+    border: 10x solid green;
+}
+p {
+    padding-left: 0px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+title {
+    padding-left: 80px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+header {
+    padding-left: 80px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+title {
+    font-size: x-large;
+    color: limegreen;
+    text-align: center;
+}
+header {
+    font-size: x-large;
+    color: limegreen;
+    text-align: center;
+}
+p {
+    text-align: left;
+}
+footer {
+    font-size: x-small;
+    text-align: left;
+    color: slategray;
+}
+h1 {
+    font-size: x-large;
+    text-align: center;
+    color: limegreen;
+}
+p {
+    background-color: skyblue;
+}
