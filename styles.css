@@ -115,8 +115,8 @@ header {
     color: limegreen;
     text-align: center;
 }
-.center {
-    text-align: center;
+.cursive {
+    font-family: cursive;
 }
 footer {
     font-size: x-small;
