@@ -59,7 +59,7 @@ progress {
     vertical-align: baseline;
 }
 [type="number"]::-webkit-inner-spin-button,
-[type="number"]:::-webkit-outer-spin-button {
+[type="number"]::-webkit-outer-spin-button {
     height: auto;
 }
 [type="search"] {
@@ -130,4 +130,10 @@ h1 {
 }
 p {
     background-color: skyblue;
+}
+#greenParagraph {
+    color: green;
+}
+.center-alignParagraph {
+    text-align: center justify;
 }
