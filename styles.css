@@ -115,8 +115,8 @@ header {
     color: limegreen;
     text-align: center;
 }
-.left {
-    text-align: left;
+.center {
+    text-align: center;
 }
 footer {
     font-size: x-small;
