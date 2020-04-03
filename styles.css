@@ -115,8 +115,8 @@ header {
     color: limegreen;
     text-align: center;
 }
-.fantasy {
-    font-family: fantasy;
+.new-font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 footer {
     font-size: x-small;
